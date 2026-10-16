@@ -1,6 +1,6 @@
-# Classical invariant theory
+# Catalectic — classical invariant theory
 
-**Provisional repository name: Synectic.** The owner intends to rename it. The subject is **classical invariant theory**, especially nineteenth-century mathematics: how mathematicians constructed polynomial expressions that remain unchanged, or transform by a prescribed factor, when their variables are changed.
+**Catalectic** studies classical invariant theory, especially nineteenth-century mathematics: how mathematicians constructed polynomial expressions that remain unchanged, or transform by a prescribed factor, when their variables are changed.
 
 Start with the actual nineteenth-century objects and their original names, not solely with today's textbook account of matrices or linear operators.
 
