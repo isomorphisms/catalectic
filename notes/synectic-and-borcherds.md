@@ -1,6 +1,6 @@
 # “Synectic”: Sylvester, complex analysis, and the Borcherds lecture lead
 
-Status: **two historical uses verified in printed sources; the specific Richard E. Borcherds lecture remains unidentified** (2026-10-15).
+Status: **Sylvester's prosodic use is explicitly connected by his rhetoric to Cauchy and Riemann, as quoted by Daniel Brown; the specific Richard E. Borcherds lecture remains unidentified** (2026-10-15). See also [2025 X screenshot notes](sylvester-synectic-2025-posts.md).
 
 ## 1. Sylvester's _synectic_ in prosody
 
@@ -24,11 +24,19 @@ A **separate usage** appears in nineteenth-century French complex analysis:
 
 A modern holomorphic function on an open set is a complex-differentiable function. The older nomenclature is not automatically identical in every detail: check the historical authors' assumptions (single-valuedness, domain, continuations) before translating terminology into modern definitions.
 
-**Do not conflate Sylvester's rhythmic continuity with Cauchy's function-theoretic continuity.** They are an intriguing common word and possible conceptual comparison, not a demonstrated influence or mathematical equivalence.
+### An explicit literary bridge, not just an accidental shared word
+
+**Revision prompted by screenshots of January 2025 X posts.** Daniel Brown, in [“James Joseph Sylvester: the calculus of forms” (2013), pp. 207–233](https://www.cambridge.org/core/books/abs/poetry-of-victorian-scientists/james-joseph-sylvester-the-calculus-of-forms/87B09E28C87689A4E2435BA144381A34), quotes Sylvester describing **Synectic as extending from Cauchy and Riemann's mathematical domain into Milton and Byron's poetry**. The screenshots also emphasize that Sylvester understands poetic sound as continuously varying, in analogy with points tracing curves, and divides Synectic into **anastomosis, symptosis, and phonetic syzygy**. Sylvester states: “My chief business is with Synectic.”
+
+This **changes the interpretation** of the common word: Sylvester was *deliberately making a mathematical-literary connection*, not merely writing with an unrelated same-sounding word. But this alone does not establish that his sound-based theory and Cauchy's complex function-theoretic terminology are equivalent, or precisely what Sylvester borrowed from Cauchy. **Verify the passages in the original _Laws of Verse_ and Brown's chapter at exact pages.**
+
+The screenshots are transcribed with further links and dating in [January–May 2025 posts](sylvester-synectic-2025-posts.md).
+
+**Date correction:** a screenshot preserves a secondhand YouTube-comment claim that Cauchy called complex-differentiable functions “synectic” *until 1875*. Cauchy died **1857**; **1875** identifies the later Briot–Bouquet edition's adoption of *holomorphic*. Do not attribute the change in 1875 to Cauchy himself.
 
 ## 3. Richard E. Borcherds — specific lecture not verified
 
-Recollection to investigate: **Richard E. Borcherds mentions “synectic” in a lecture.**
+Recollection to investigate: **Richard E. Borcherds mentions “synectic” in a lecture.** A partly visible January 2025 X post mentions a **YouTube user/comment** instead, but does not establish that it was in Borcherds's lecture; see the [screenshot note](sylvester-synectic-2025-posts.md).
 
 Potential candidate, **not confirmed**:
 
@@ -46,4 +54,4 @@ Until located, do **not** fabricate a video timestamp or say that Borcherds used
 4. Read the precise passage around Sylvester, _The Laws of Verse_, p. 64, and distinguish his three rhythm categories by explicit examples.
 5. Only then compare the terminologies, if the connection is substantive.
 
-Original conversation's notes and bibliography: [GitHub issue #1](https://github.com/isomorphisms/synectic/issues/1).
+Original conversation's notes and bibliography: [GitHub issue #1](https://github.com/isomorphisms/catalectic/issues/1). The repository was renamed from **synectic** to **catalectic**.
