@@ -19,7 +19,7 @@ The screenshots quote or summarize **Daniel Brown, _The Poetry of Victorian Scie
 - [Brown, chapter 9, publisher](https://www.cambridge.org/core/books/abs/poetry-of-victorian-scientists/james-joseph-sylvester-the-calculus-of-forms/87B09E28C87689A4E2435BA144381A34) — confirms the chapter, author, and page range; most of the text requires access.
 - [Sylvester, _The Laws of Verse_ (1870), original](https://archive.org/details/lawsofverseorpri00sylviala) — primary text; inspect particularly the discussion of Synectic at **p. 64**, and the tripartition of rhythm.
 - [Historical discussion of Sylvester's laws by R. C. Archibald (1933)](https://www.unav.es/gep/Archibald1933Sylvester.pdf) — refers to Poe, Sylvester's phonetic syzygy, and later reactions.
-- [Contemporary reception (1871, _Gentleman's Magazine_), indexed excerpt](https://books.google.com/books?id=U-0NAAAAYAAJ) — investigate independently with exact issue/pages.
+- Contemporary reception: an 1871 _Gentleman's Magazine_ discussion of Sylvester's three divisions and their meaning is another lead; **find the original issue and page numbers** before citing.
 
 Quotation provenance needs checking: Brown often **quotes Sylvester**; the X posts also contain the poster's summary. Do not attribute all the words in the screenshots directly to Sylvester. Record exact primary pages when confirmed.
 
