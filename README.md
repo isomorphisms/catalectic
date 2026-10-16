@@ -44,6 +44,7 @@ Study why this particular Hankel-type array arises, what the vanishing of its de
 
 ## Reading and active notes
 
+- [Borcherds's list: determinant, resultant, Bézoutiant, catalecticant, harmonizant](notes/determinant-resultant-bezoutiant-catalecticant-harmonizant.md) — constructions, examples, apolarity, and the additional canonizant
 - [From determinants to matrices: why are there entries?](notes/determinants-to-matrices.md) — determinant-first history, change of bases, and what is or isn't intrinsic
 - [R. Skip Garibaldi, *The Characteristic Polynomial and Determinant Are Not Ad Hoc Constructions*](sources/skip-garibaldi-characteristic-polynomial.md) — related reading about intrinsic algebraic constructions, not a claim that characteristic polynomials exhaust classical invariant theory
 - [Borcherds's algebraic geometry lectures, notes taken by Zvi Rosen, §14.2, p. 40](https://www2.math.upenn.edu/~zvihr/courses/AGNotes.pdf) — mentions Sylvester's “determinant, resultant, Bezoutiant, catalecticant, harmonizant” and discusses elimination
