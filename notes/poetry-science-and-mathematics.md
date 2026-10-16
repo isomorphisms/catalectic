@@ -13,6 +13,8 @@ A reading dossier for **synectic**, assembled 2026-10-15. The purpose is to comp
 
 This is **secondary scholarship**. Record page-specific claims, then compare them with the scientists' surviving writings. In particular, avoid reading the relationship between algebraic forms and poetic form into Sylvester without quotations and mathematical examples.
 
+**New concrete connection from [2025 screenshot excerpts](sylvester-synectic-2025-posts.md):** Brown's chapter 9 quotes Sylvester tying Synectic to **Cauchy and Riemann** on one side, and **Milton and Byron** on the other; Sylvester makes poetic sound and the continuously traced mathematical curve part of the *same deliberate analogy*. He divides the phenomenon into **anastomosis, symptosis, and phonetic syzygy**. The quoted material warrants reading the originals closely rather than assuming mathematics and literature were separate interests. See the [direct publisher record for chapter 9](https://www.cambridge.org/core/books/abs/poetry-of-victorian-scientists/james-joseph-sylvester-the-calculus-of-forms/87B09E28C87689A4E2435BA144381A34). The exact text/page and degree to which Brown paraphrases vs quotes must still be checked.
+
 ## Edgar Allan Poe — theory of verse
 
 **Edgar Allan Poe, “The Rationale of Verse”** (first published in two parts, _Southern Literary Messenger_, October and November 1848).
@@ -77,4 +79,4 @@ Other Sylvester verse-related works to look up: _The Law of Continuity as Applie
 3. Document where their accounts agree or contradict; assess them against readings by different speakers.
 4. Identify a precise Sylvester mathematical paper and ask whether any formal relationship to his poetic vocabulary is demonstrable, not merely verbal.
 5. Compare Brown's scholarly interpretation with passages in Sylvester's originals, preserving page numbers.
-6. Keep history of the word **synectic** and the possible Richard Borcherds lecture in [the separate note](synectic-and-borcherds.md).
+6. Investigate the **deliberate bridge** between Sylvester's rhetoric of Synectic, nineteenth-century complex analysis, and his *phonetic syzygy*. Distinguish verbal analogy from formal mathematical identity. See [the historical terminology/Borcherds lead](synectic-and-borcherds.md) and [the 2025 screenshot note](sylvester-synectic-2025-posts.md).
